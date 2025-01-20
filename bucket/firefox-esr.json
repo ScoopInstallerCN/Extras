@@ -1,5 +1,5 @@
 {
-    "version": "115.8.0",
+    "version": "128.6.0",
     "description": "Extended Support Release of Firefox: the popular open source web browser",
     "homepage": "https://www.mozilla.org/en-US/firefox/organizations/",
     "license": "MPL-2.0",
@@ -11,16 +11,16 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://archive.mozilla.org/pub/firefox/releases/115.8.0esr/win64/en-US/Firefox%20Setup%20115.8.0esr.exe#/dl.7z",
-            "hash": "sha512:eaa49449da1fdf61d8d3c4e7571c6bb4d710ad30f921390ff8fbaf96eb8811d42fa894262ba561c0c169b03cdca04b7ef58a182ee8f1f39594e9f31b06394b87"
+            "url": "https://archive.mozilla.org/pub/firefox/releases/128.6.0esr/win64/en-US/Firefox%20Setup%20128.6.0esr.exe#/dl.7z",
+            "hash": "sha512:0783e9f7c5f9d0d823fb29dedaed20d8c9aad9ed4fe79c1e5a9c6ab068b72852da24d745f80032f9644b50e492769d348bf481ce7dd68cd9a281fdd7574783e4"
         },
         "32bit": {
-            "url": "https://archive.mozilla.org/pub/firefox/releases/115.8.0esr/win32/en-US/Firefox%20Setup%20115.8.0esr.exe#/dl.7z",
-            "hash": "sha512:42f4c064cb11d24e5b00a5f10c950f12b6559cfc30d8c64e93d206b40da199a873c6e2aad71011d9c6df0e5a33abffd98dc12bb6293bcd5c7639b1946da31ccb"
+            "url": "https://archive.mozilla.org/pub/firefox/releases/128.6.0esr/win32/en-US/Firefox%20Setup%20128.6.0esr.exe#/dl.7z",
+            "hash": "sha512:19f5ebaddd0ba824af578a4344e4b0c632f4d51fa91688b71af2ab2faf574b04affd9087e643d802ec7da1fa119380e7c046d91666bd487dfbce17cea08a503b"
         },
         "arm64": {
-            "url": "https://archive.mozilla.org/pub/firefox/releases/115.8.0esr/win64-aarch64/en-US/Firefox%20Setup%20115.8.0esr.exe#/dl.7z",
-            "hash": "sha512:96e1685c40875ed6be6ce6934e456451885e4b2250472db49ad68fb5a974f0f2df2b167a6e17f44667ed814d6cfb1a66d6fa19638e992bed442c31af233834eb"
+            "url": "https://archive.mozilla.org/pub/firefox/releases/128.6.0esr/win64-aarch64/en-US/Firefox%20Setup%20128.6.0esr.exe#/dl.7z",
+            "hash": "sha512:2d609230ed1c128fbe3cfc1e81a1d32a96dff238938941befc7b13c6f97f514970a0d92df637c2a7aa021991936b3529c0fbc931c8ff2cfc30be46a4b3228094"
         }
     },
     "extract_dir": "core",
